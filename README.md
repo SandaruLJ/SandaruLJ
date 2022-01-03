@@ -1,7 +1,7 @@
 ### Hi there fellow Homo sapiens 👋
 
-- 🔭 I’m currently working on an online e-commerce system
-- 🌱 I’m currently learning Angular and Flutter
+- 🔭 I’m currently working on an AI enhanced personalized adaptive learning system
+- 🌱 I’m currently learning AI and Machine Learning
 - 👯 I’m looking to collaborate on any open-source projects
 - 🤔 I’m looking for help with learning low-level programming
 - 💬 Ask me about absolutely anything!
