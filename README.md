@@ -1,9 +1,9 @@
 ### Hi there fellow Homo sapiens 👋
 
-- 🔭 I’m currently working on an AI enhanced personalized adaptive learning system
-- 🌱 I’m currently learning AI and Machine Learning
+- 🔭 I’m currently working on a music player project
+- 🌱 I’m currently learning C and low-level programming
 - 👯 I’m looking to collaborate on any open-source projects
-- 🤔 I’m looking for help with learning low-level programming
+- 🤔 I’m looking for help with learning networking and cyber security
 - 💬 Ask me about absolutely anything!
 - 📫 How to reach me: sandarulakshitha1999@gmail.com
 - 😄 Pronouns: He/him/his
