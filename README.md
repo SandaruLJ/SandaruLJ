@@ -1,4 +1,4 @@
-### Hi there fellow Homo sapiens 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on a music player project
 - 🌱 I’m currently learning C and low-level programming
@@ -7,6 +7,6 @@
 - 💬 Ask me about absolutely anything!
 - 📫 How to reach me: sandarulakshitha1999@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I wouldn't survive a week without music
+- ⚡ Fun fact: Can't think of anything right now. How 'bout that for a fun fact, huh?
 
 ![Sandaru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandaruLJ&show_icons=true&count_private=true&hide=stars)
